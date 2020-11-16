@@ -1,0 +1,19 @@
+{
+    "name": "davidvegacl/laravel-flow",
+    "description": "Pagos online con Flow Pagos en Laravel 5+",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Vega",
+            "email": "david@izarus.cl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Davidvegacl\\LaravelFlow\\": "src/"
+        }
+    },
+    "require": {}
+}
